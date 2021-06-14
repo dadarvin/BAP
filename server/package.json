@@ -1,0 +1,23 @@
+{
+  "name": "projek_sbd_6a",
+  "version": "1.0.0",
+  "description": "Projek BAP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DV, MC, FD, MI",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "pg": "^8.6.0",
+    "postgres": "^1.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
