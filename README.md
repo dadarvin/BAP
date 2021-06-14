@@ -29,7 +29,7 @@ harga yang akan dikeluarkan ketika ingin merakit sebuah PC.
 
 ### Mengaktifkan server Frontend dan Backend
 3. Gunakan terminal atau powershell dan cd ke folder `./client` kemudian jalankan `npm start`
-4. Buka terminal atau powershell kedua dan cd ke folder `./server` kemudian jalankan `nodemon app` atau `node index.js`
+4. Buka terminal atau powershell kedua dan cd ke folder `./server` kemudian jalankan `nodemon app` atau `node app.js`
 
 ### Note
 - Website akan dijalankan pada server 3000 dan server pada 3080, Jika port yang tertera tidak available dapat diganti pada file `.env`
